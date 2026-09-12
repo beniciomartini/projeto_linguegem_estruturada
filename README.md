@@ -1,5 +1,4 @@
-#Projeto de Linguagem Estruturada
-
+# Projeto de Linguagem Estruturada
 *Desenvolvido em C
 
 Objetivo:
